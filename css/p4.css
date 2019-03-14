@@ -1,0 +1,91 @@
+.trashcan, #check {
+    cursor: pointer;
+}
+
+.fa-check-circle {
+    color: green;
+}
+
+.trashcan {
+    color: brown;
+    position: absolute;
+    right: 10px;
+}
+
+.text-muted {
+    text-decoration: line-through;
+}
+
+
+.container{
+    width: 600px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.dropdown-item:hover {
+    color: cornflowerblue;
+    background-color: #DDDEDE;
+}
+
+body {
+    background-image: url(../images/background.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color:darkkhaki;
+}
+
+.footer {
+    color: lightgray;
+    position: absolute;
+    bottom: 0px;
+    margin-left: 35%;
+}
+
+.mb-lg-0 {
+    background-color: black;
+}
+
+.btn-primary:hover {
+    cursor: default;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-danger:hover {
+    cursor: default;
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-success:hover {
+    cursor: default;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.dropdown {
+    display: inline;
+    margin-left: 14%;
+}
+
+.inputCenter {
+    width: 300px;
+    margin-left: 35%;
+}
+
+.buttonsCenter {
+    margin-left: 40px;
+}
+
+ul {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+h1 {
+    margin-bottom: 3%;
+    margin-left: 10%;
+}
