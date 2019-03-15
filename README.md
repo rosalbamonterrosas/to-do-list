@@ -20,7 +20,7 @@ Click on the circle icon on the left side on an entry to mark the entry as compl
 Click on the menu icon at the top right side of the app to display all of the other possible functions. These functions include: delete all items, delete completed items, delete to do items, mark all as completed, mark all as to do, and sort a-z.
 
 ### Counters
-There are three counters at the top of the app to show the number of entries within each of the following three categories: all items, to do items, and completed items.
+There are three counters at the top of the app that display the number of entries within each of the following three categories: all items, to do items, and completed items.
 
 ### Local Storage
 Each change made in the app is saved to the local storage. The browser loads the contents of the local storage each time the browser opens the app.
